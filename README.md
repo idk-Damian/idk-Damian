@@ -1,50 +1,50 @@
-# ¡Hola! Soy Pablo Damian Lozada Marcial 👋
+# Hi there! I'm Pablo Damian Lozada Marcial 👋
 
-Soy un **Estudiante de Ingeniería de Software** en la **Universidad Técnica de Ambato (UTA)**. Me apasiona el desarrollo de sistemas robustos, la automatización de procesos y el análisis de datos para resolver problemas reales.
-
----
-
-### 🚀 Sobre mí
-- 🎓 Estudiando Ingeniería de Software en la **UTA** (Ambato, Ecuador).
-- 🏗️ Enfocado en el ciclo de vida del software, desde el modelado hasta el despliegue.
-- 🏎️ Seguidor fiel de la **Fórmula 1** y fan de la agresividad y técnica de **Max Verstappen**.
-- 🎮 Jugador de *Plants vs. Zombies: Garden Warfare 2* y desarrollador en la plataforma **Roblox**.
+I am a **Software Engineering Student** at **Universidad Técnica de Ambato (UTA)**. I focus on building robust systems, automating development workflows, and performing data-driven analysis to solve technical challenges.
 
 ---
 
-### 🛠️ Stack Tecnológico
-
-**Desarrollo y Bases de Datos:**
-- ☕ **Java:** Aplicación de lógica de programación y estructuras de datos.
-- 🗄️ **SQL:** Diseño de bases de datos y consultas complejas.
-- 🌐 **Web:** Creación de interfaces con HTML, CSS y JavaScript.
-
-**Ingeniería de Software y Redes:**
-- 📐 **Model-Driven Development:** Uso experto de **Eclipse Modeling Framework (EMF)**, **Ecore** y **Xtend** para generación automática de código.
-- 📡 **Networking:** Configuración y simulación de topologías en **Cisco Packet Tracer**.
+### 🚀 About Me
+- 🎓 Currently pursuing my degree at **UTA** (Ambato, Ecuador).
+- 🏗️ Interested in the full software lifecycle, from conceptual modeling to deployment.
+- 🏎️ Huge **Formula 1** fan – I follow **Max Verstappen's** "Simply Lovely" dominance.
+- 🎮 *PvZ: Garden Warfare 2* enthusiast and **Roblox** developer.
 
 ---
 
-### 📂 Proyectos Destacados
+### 🛠️ Tech Stack
 
-#### ☀️ Análisis de Viabilidad Solar en Ambato
-Investigación estadística basada en datos de **NASA POWER (2020-2025)**. Utilicé pruebas de hipótesis (Z-tests) para determinar el potencial energético solar en la ciudad.
+**Programming & Databases:**
+- ☕ **Java:** Core logic and data structures.
+- 🗄️ **SQL:** Database design and complex querying.
+- 🌐 **Web Development:** Crafting interactive UIs with HTML5, CSS3, and JavaScript.
 
-#### ⚙️ Automatización de UI con EMF & Xtend
-Desarrollo de un sistema que transforma modelos conceptuales en código funcional de interfaces (HTML/CSS) y scripts SQL, optimizando los tiempos de desarrollo.
-
-#### 🃏 Simulador de Apertura de Sobres (Pack Opening)
-Proyecto web interactivo que simula la apertura de "stickers" legendarios, aplicando lógica de probabilidades y efectos visuales con JavaScript.
-
-#### 🕹️ Ingeniería en Roblox
-Desarrollo de mecánicas avanzadas y scripts dentro del ecosistema de Roblox, aplicando principios de arquitectura de software al desarrollo de videojuegos.
+**Software Engineering & Networking:**
+- 📐 **Model-Driven Development:** Advanced use of **Eclipse Modeling Framework (EMF)**, **Ecore**, and **Xtend** for automated code generation.
+- 📡 **Networking:** Topology configuration and simulation using **Cisco Packet Tracer**.
 
 ---
 
-### 📫 Conectemos
+### 📂 Featured Projects
+
+#### ☀️ Solar Viability Analysis (Ambato, Ecuador)
+A statistical research project using **NASA POWER** satellite data (2020-2025). I performed **Z-tests** to analyze irradiance levels and determine solar energy potential in my home city.
+
+#### ⚙️ UI Code Generator (EMF & Xtend)
+An engineering project that transforms Ecore models into functional HTML, CSS, and SQL code, significantly reducing manual coding time.
+
+#### 🃏 Legendary Pack Opening Simulator
+An interactive web interface that replicates "sticker pack" mechanics, focusing on probability logic and smooth front-end user experience.
+
+#### 🕹️ Software Engineering in Roblox
+Applying formal engineering principles to develop complex mechanics and scripts within the Roblox ecosystem.
+
+---
+
+### 📫 Let's Connect
 - 📍 Ambato, Ecuador
-- ✉️ dl7pablok@gmail.com
-
+- ✉️ [Your Email Here]
+- 💼 [Your LinkedIn Here]
 
 ---
-> "Simply Lovely!" – *Max Verstappen*
+*“Simply Lovely!”* – **Max Verstappen** 🏎️💨
