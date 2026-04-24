@@ -1,50 +1,60 @@
-# Hi there! I'm Pablo Damian Lozada Marcial 👋
+<div align="center">
 
-I am a **Software Engineering Student** at **Universidad Técnica de Ambato (UTA)**. I focus on building robust systems, automating development workflows, and performing data-driven analysis to solve technical challenges.
+#  Pablo Damian Lozada Marcial 
+### 🎓 Software Engineering Student @ Universidad Técnica de Ambato
 
----
-
-### 🚀 About Me
-- 🎓 Currently pursuing my degree at **UTA** (Ambato, Ecuador).
-- 🏗️ Interested in the full software lifecycle, from conceptual modeling to deployment.
-- 🏎️ Huge **Formula 1** fan – I follow **Max Verstappen's** "Simply Lovely" dominance.
-- 🎮 *PvZ: Garden Warfare 2* enthusiast and **Roblox** developer.
+[![Email](https://img.shields.io/badge/Email-dl7pablok@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dl7pablok@gmail.com)
+![Location](https://img.shields.io/badge/Location-Ambato%2C%20Ecuador-00843D?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+"Simply Lovely!" — **Max Verstappen** 🏆
+</div>
 
-**Programming & Databases:**
-- ☕ **Java:** Core logic and data structures.
-- 🗄️ **SQL:** Database design and complex querying.
-- 🌐 **Web Development:** Crafting interactive UIs with HTML5, CSS3, and JavaScript.
+## 👨‍💻 About Me
+I am a software engineering student driven by logic and efficiency. I specialize in **Model-Driven Development (MDD)** and **Data Analysis**. My goal is to bridge the gap between complex engineering models and functional, user-centric applications.
 
-**Software Engineering & Networking:**
-- 📐 **Model-Driven Development:** Advanced use of **Eclipse Modeling Framework (EMF)**, **Ecore**, and **Xtend** for automated code generation.
-- 📡 **Networking:** Topology configuration and simulation using **Cisco Packet Tracer**.
-
----
-
-### 📂 Featured Projects
-
-#### ☀️ Solar Viability Analysis (Ambato, Ecuador)
-A statistical research project using **NASA POWER** satellite data (2020-2025). I performed **Z-tests** to analyze irradiance levels and determine solar energy potential in my home city.
-
-#### ⚙️ UI Code Generator (EMF & Xtend)
-An engineering project that transforms Ecore models into functional HTML, CSS, and SQL code, significantly reducing manual coding time.
-
-#### 🃏 Legendary Pack Opening Simulator
-An interactive web interface that replicates "sticker pack" mechanics, focusing on probability logic and smooth front-end user experience.
-
-#### 🕹️ Software Engineering in Roblox
-Applying formal engineering principles to develop complex mechanics and scripts within the Roblox ecosystem.
+- 🔭 **Current Focus:** Advanced scripting in Roblox and UI automation.
+- 📊 **Research:** Statistical analysis of renewable energy (NASA POWER data).
+- 🏎️ **Passions:** F1 tech regulations and competitive gaming (PvZ: GW2).
 
 ---
 
-### 📫 Let's Connect
-- 📍 Ambato, Ecuador
-- ✉️ [Your Email Here]
-- 💼 [Your LinkedIn Here]
+## 🛠️ Tech Stack & Tools
+
+### 💻 Development
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-07405e?style=flat-square&logo=postgresql&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Engineering** | ![Eclipse](https://img.shields.io/badge/-Eclipse%20EMF-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![Xtend](https://img.shields.io/badge/-Xtend-2C2255?style=flat-square) ![Cisco](https://img.shields.io/badge/-Packet%20Tracer-049fd9?style=flat-square&logo=cisco&logoColor=white) |
 
 ---
-*“Simply Lovely!”* – **Max Verstappen** 🏎️💨
+
+## 📈 GitHub Statistics
+<div align="center">
+
+| **Most Used Languages** | **GitHub Metrics** |
+| :---: | :---: |
+| <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk-Damian&layout=compact&theme=tokyonight&hide_border=true" /> | <img height="165" src="https://github-readme-stats.vercel.app/api?username=idk-Damian&show_icons=true&theme=tokyonight&hide_border=true" /> |
+
+</div>
+
+---
+
+## 📂 Key Projects
+
+### ☀️ [Solar Viability Analysis](https://github.com/idk-Damian)
+Statistical study using **NASA POWER** datasets to calculate irradiance variance in Ambato. Applied Z-tests for hypothesis verification.
+
+### ⚙️ [EMF Code Generator](https://github.com/idk-Damian)
+A powerful tool built with **Ecore** and **Xtend** that automates the creation of full-stack UI components and database schemas from high-level models.
+
+### 🕹️ [Roblox Engineering](https://github.com/idk-Damian)
+Implementation of complex game systems and custom physics scripts using Luau, focused on performance optimization.
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</div>
