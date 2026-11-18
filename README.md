@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏎️ Pablo Damian Lozada Marcial 🏎️
-### 🎓 Estudiante de Ingeniería de Software | Universidad Técnica de Ambato
+ Pablo Damian Lozada Marcial 
+###  Estudiante de Ingeniería de Software | Universidad Técnica de Ambato
 
 ---
 
@@ -9,16 +9,16 @@
 
 <br>
 
-> "Simply Lovely!" — **Max Verstappen** 🏆
+> "Simply Lovely!" — **Max Verstappen** 
 
 <hr>
 </div>
 
-## 👨‍💻 Sobre Mí
+##  Sobre Mí
 Soy un estudiante de ingeniería de software motivado por la lógica, la eficiencia y las soluciones basadas en datos. Mis fortalezas residen en el **Desarrollo Guiado por Modelos (MDD)** y el **Análisis de Datos**, buscando siempre la arquitectura más limpia y escalable.
 
-- 🔭 **Objetivo Actual:** Elevar los estándares de ingeniería en el Desarrollo de Videojuegos (Game Dev).
-- 🏎️🎮 **Intereses Principales:** Regulaciones técnicas de la Fórmula 1 y optimización de mecánicas en *PvZ: GW2* / Roblox.
+-  **Objetivo Actual:** Elevar los estándares de ingeniería en el Desarrollo de Videojuegos (Game Dev).
+-  **Intereses Principales:** Regulaciones técnicas de la Fórmula 1 y optimización de mecánicas en *PvZ: GW2* / Roblox.
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29yazQ5aHZzYmNvYjdwMXZpYXUwaW1uaHpmZWsxMWR5bnZlc2NjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PO8sWm3G0AweT3HgzN/giphy.gif" width="35%" alt="Plants vs Zombies GW2 Gameplay" style="border-radius: 8px;"/>
@@ -27,9 +27,9 @@ Soy un estudiante de ingeniería de software motivado por la lógica, la eficien
 
 ---
 
-## 🛠️ Stack Tecnológico y Herramientas
+##  Stack Tecnológico y Herramientas
 
-### 💻 Lenguajes de Programación
+###  Lenguajes de Programación
 | Lenguaje | Icono |
 | :--- | :--- |
 | Java | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
